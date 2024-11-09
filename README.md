@@ -1,27 +1,38 @@
 <h1 align="center">👋 Welcome to OfferBoat's GitHub 👋 </h1>
 <h3 align="center">📱 Offerboat – The Marketplace for Boat Rentals </h3>
-<img align="center" alt="OfferBoat Logo" width="500" src="assets/logo.png">
+<h3 align="center"><img align="center" alt="OfferBoat Logo" width="300" src="logo.png"> </h3>
 
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=offerboat&label=Profile%20views&color=0e75b6&style=flat" alt="offerboat" /> </p>
 
 - 👥 OfferBoat Partners LLC is the team behind OfferBoat a leading mobile and web app designed to make global boat rentals seamless.
   
 - 🛠️ Key Technologies
-Our platform is built using:
-- **React Native** for mobile applications (iOS & Android)
-- **React** and **Next.js** for the web front-end, ensuring fast and dynamic user experiences
-- **Node.js** and **Express** for backend services, powering API requests and server-side logic
-- **Redux Toolkit** for efficient state management across the application
-- **TypeScript** for enhanced code quality and type safety
-- **MongoDB** for flexible, scalable NoSQL database management
-- **Firebase** for real-time data handling, user authentication, and push notifications
-- **AWS** for secure, scalable, and reliable cloud infrastructure
+  
+  Our platform is built using:
+  
+  **React Native** for mobile applications (iOS & Android)
+  
+  **React** and **Next.js** for the web front-end, ensuring fast and dynamic user experiences
+  
+  **Node.js** and **Express** for backend services, powering API requests and server-side logic
+  
+  **Redux Toolkit** for efficient state management across the application
+  
+  **TypeScript** for enhanced code quality and type safety
+  
+  **MongoDB** for flexible, scalable NoSQL database management
+  
+  **Firebase** for real-time data handling, user authentication, and push notifications
+  
+  **AWS** for secure, scalable, and reliable cloud infrastructure
 
 - 🌐 Visit our Website
+
   For more information and to explore boat rental services, [visit our website](https://www.offerboat.com).
   
-- Contact Us 📧
-  please email us at support@offerboat.net 
+- 📧 Contact Us 
+
+   please email us at support@offerboat.net 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -40,10 +51,6 @@ Our platform is built using:
   <!-- Firebase -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <!-- AWS -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
   <!-- Node.js -->
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
