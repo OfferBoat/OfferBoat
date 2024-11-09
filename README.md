@@ -1,10 +1,8 @@
 <h1 align="center">👋 Welcome to OfferBoat's GitHub 👋 </h1>
 <h3 align="center">📱 Offerboat – The Marketplace for Boat Rentals </h3>
+<img align="center" alt="OfferBoat Logo" width="500" src="assets/logo.png">
 
-<video width="320" height="240" controls>
-  <source src="assets/app-gif.mp4" type="video/mp4">
-</video>
- <img src="https://komarev.com/ghpvc/?username=offerboat&label=Profile%20views&color=0e75b6&style=flat" alt="offerboat" /> </p>
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=offerboat&label=Profile%20views&color=0e75b6&style=flat" alt="offerboat" /> </p>
 
 - 👥 OfferBoat Partners LLC is the team behind OfferBoat a leading mobile and web app designed to make global boat rentals seamless.
   
